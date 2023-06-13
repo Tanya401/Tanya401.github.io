@@ -1,5 +1,4 @@
-<details>
-  <summary>Click to expand</summary>
+
 # Tanya Ahuja
 [tanyaahuja](https://tanya401.github.io/) | [tanyaahuja1526@gmail.com](mailto:tanyaahuja1526@gmail.com) | +91-8791693302
 
@@ -109,4 +108,4 @@ MERN STACK
 - April 2021: Got a place in the top-10 teams in HackBMU, which was my first hackathon
 - March 2020: 1st Rank in school in XII examination with 97.4%
 
-</details>
+
